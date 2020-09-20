@@ -146,7 +146,7 @@
         "UsePlan": false
       },
       "SLES 12": {
-        "sku": "12-SP1",
+        "sku": "12-SP4",
         "offer": "SLES-SAP",
         "publisher": "SUSE",
         "version": "latest",
@@ -155,7 +155,7 @@
         "UsePlan": false
       },
       "SLES 12 BYOS": {
-        "sku": "12-SP1",
+        "sku": "12-SP4",
         "offer": "SLES-SAP-BYOS",
         "publisher": "SUSE",
         "OSType": "Linux",
